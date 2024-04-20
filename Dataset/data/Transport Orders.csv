@@ -1,0 +1,154 @@
+Transport Order ID,Shipyard ID,Team ID,Transport Date,Departure Address,Destination Address,Transport Cost
+751630,590511,2,2023-01-21 00:00:00.000,Storage Facility 1 Street,Port of New York and New Jersey,9492.14
+126833,590511,4,2023-01-15 23:16:34.975,Storage Facility 4 Street,Port of Singapore,1298.84
+688153,115267,2,2023-01-20 22:33:09.950,Storage Facility 3 Street,Port of Hamburg,1717.25
+494952,711889,4,2023-01-24 21:49:44.925,Storage Facility 1 Street,Port of Hong Kong,6103.25
+988338,590511,4,2023-01-28 21:06:19.899,Storage Facility 4 Street,Port of Dubai,11001.42
+284199,347209,4,2023-01-30 20:22:54.874,Storage Facility 1 Street,Port of Hong Kong,6925.72
+179930,115267,2,2023-01-20 19:39:29.849,Storage Facility 1 Street,Port of Tianjin,6475.94
+864196,115267,4,2023-01-27 18:56:04.824,Storage Facility 3 Street,Port of Valencia,2160.21
+468419,347209,2,2023-01-27 18:12:39.799,Storage Facility 5 Street,Port of Los Angeles,8224.58
+941204,711889,2,2023-01-29 17:29:14.774,Storage Facility 5 Street,Port of Dubai,10043.13
+492974,347209,4,2023-02-01 16:45:49.749,Storage Facility 1 Street,Port of Rotterdam,5184.62
+997440,711889,2,2023-02-10 16:02:24.724,Storage Facility 2 Street,Port of Shanghai,9531.73
+292008,347209,2,2023-02-08 15:18:59.698,Storage Facility 4 Street,Port of Los Angeles,11609.24
+654118,347209,4,2023-02-15 14:35:34.673,Storage Facility 2 Street,Port of Valencia,3241.43
+604273,412104,2,2023-02-09 13:52:09.648,Storage Facility 2 Street,Port of Ningbo-Zhoushan,6756.63
+804566,115267,2,2023-02-17 13:08:44.623,Storage Facility 1 Street,Port of New York and New Jersey,4158.52
+350742,347209,2,2023-02-20 12:25:19.598,Storage Facility 1 Street,Port of Qingdao,9721.4
+943676,347209,4,2023-02-23 11:41:54.573,Storage Facility 1 Street,Port of Rotterdam,7353.53
+732591,590511,4,2023-02-19 10:58:29.548,Storage Facility 1 Street,Port of Ningbo-Zhoushan,7980.41
+269672,115267,2,2023-02-20 10:15:04.523,Storage Facility 5 Street,Port of Los Angeles,9777.06
+221801,590511,2,2023-02-24 09:31:39.497,Storage Facility 1 Street,Port of Shanghai,5355.68
+914026,115267,4,2023-02-21 08:48:14.472,Storage Facility 5 Street,Port of Guangzhou,11065.99
+736876,590511,4,2023-02-21 08:04:49.447,Storage Facility 5 Street,Port of Los Angeles,6863.32
+856049,347209,4,2023-02-28 07:21:24.422,Storage Facility 1 Street,Port of New York and New Jersey,2737.5
+826357,347209,4,2023-03-01 06:37:59.397,Storage Facility 3 Street,Port of Ningbo-Zhoushan,8654.89
+487459,412104,4,2023-02-26 05:54:34.372,Storage Facility 4 Street,Port of Busan,9725.87
+639739,590511,4,2023-03-10 05:11:09.347,Storage Facility 2 Street,Port of Qingdao,4484.38
+725861,711889,2,2023-03-10 04:27:44.322,Storage Facility 5 Street,Port of Shanghai,10428.97
+248010,412104,2,2023-03-12 03:44:19.296,Storage Facility 4 Street,Port of New York and New Jersey,10967.58
+559432,590511,2,2023-03-17 03:00:54.271,Storage Facility 3 Street,Port of Antwerp,4045.95
+357507,590511,2,2023-03-09 02:17:29.246,Storage Facility 2 Street,Port of Busan,11818.74
+351231,412104,2,2023-03-12 01:34:04.221,Storage Facility 2 Street,Port of Guangzhou,2547.83
+544666,347209,4,2023-03-16 00:50:39.196,Storage Facility 5 Street,Port of Singapore,3222.17
+316229,590511,4,2023-03-18 00:07:14.171,Storage Facility 1 Street,Port of Ningbo-Zhoushan,3026.47
+619859,347209,4,2023-03-15 23:23:49.146,Storage Facility 3 Street,Port of Dubai,10833.89
+689062,412104,2,2023-03-24 22:40:24.121,Storage Facility 5 Street,Port of Singapore,8197.22
+952802,347209,2,2023-03-30 21:56:59.095,Storage Facility 3 Street,Port of Qingdao,2673.15
+280711,115267,2,2023-03-28 21:13:34.070,Storage Facility 1 Street,Port of Singapore,5843.56
+199029,711889,2,2023-03-26 20:30:09.045,Storage Facility 1 Street,Port of Shanghai,7768.28
+222440,590511,2,2023-04-06 19:46:44.020,Storage Facility 5 Street,Port of Antwerp,1918.1
+268641,711889,2,2023-04-02 19:03:18.995,Storage Facility 1 Street,Port of Qingdao,10706.58
+238725,347209,2,2023-04-08 18:19:53.970,Storage Facility 4 Street,Port of New York and New Jersey,9839.64
+382816,590511,2,2023-04-09 17:36:28.945,Storage Facility 2 Street,Port of New York and New Jersey,6557.27
+264460,347209,2,2023-04-04 16:53:03.920,Storage Facility 5 Street,Port of Rotterdam,11638.39
+726691,115267,4,2023-04-09 16:09:38.894,Storage Facility 3 Street,Port of Antwerp,5595.37
+481374,412104,2,2023-04-19 15:26:13.869,Storage Facility 4 Street,Port of New York and New Jersey,11825.21
+173859,590511,4,2023-04-17 14:42:48.844,Storage Facility 5 Street,Port of Tianjin,8347.12
+752142,115267,2,2023-04-22 13:59:23.819,Storage Facility 1 Street,Port of Shanghai,7981.38
+649456,115267,2,2023-04-21 13:15:58.794,Storage Facility 1 Street,Port of Dubai,2825.5
+321790,590511,2,2023-04-25 12:32:33.769,Storage Facility 1 Street,Port of Rotterdam,10701.21
+388990,347209,2,2023-04-29 11:49:08.744,Storage Facility 1 Street,Port of Rotterdam,5702.39
+166433,115267,4,2023-04-26 11:05:43.719,Storage Facility 3 Street,Port of Busan,2784.57
+919459,711889,2,2023-04-20 10:22:18.693,Storage Facility 4 Street,Port of Los Angeles,1138.68
+197156,115267,2,2023-04-26 09:38:53.668,Storage Facility 2 Street,Port of Ningbo-Zhoushan,7157.31
+896364,347209,4,2023-04-27 08:55:28.643,Storage Facility 3 Street,Port of Rotterdam,6801.4
+737948,347209,2,2023-05-03 08:12:03.618,Storage Facility 3 Street,Port of New York and New Jersey,8912.89
+141969,711889,2,2023-05-08 07:28:38.593,Storage Facility 2 Street,Port of Los Angeles,10792.84
+590930,115267,4,2023-05-11 06:45:13.568,Storage Facility 2 Street,Port of Hamburg,1873.47
+531666,347209,4,2023-05-02 06:01:48.543,Storage Facility 1 Street,Port of Rotterdam,9046.46
+583579,590511,4,2023-05-12 05:18:23.518,Storage Facility 3 Street,Port of Los Angeles,3061.53
+623430,412104,4,2023-05-11 04:34:58.492,Storage Facility 5 Street,Port of Hong Kong,10439.95
+643539,412104,2,2023-05-11 03:51:33.467,Storage Facility 2 Street,Port of Los Angeles,10009.7
+603513,412104,4,2023-05-21 03:08:08.442,Storage Facility 2 Street,Port of Guangzhou,6948.73
+221994,115267,4,2023-05-20 02:24:43.417,Storage Facility 4 Street,Port of Tianjin,8812.67
+834659,711889,4,2023-05-24 01:41:18.392,Storage Facility 5 Street,Port of Guangzhou,4457.85
+323181,347209,4,2023-05-20 00:57:53.367,Storage Facility 5 Street,Port of New York and New Jersey,6182.85
+346834,590511,2,2023-05-22 00:14:28.342,Storage Facility 2 Street,Port of Los Angeles,10038.01
+228224,590511,4,2023-05-30 23:31:03.317,Storage Facility 1 Street,Port of Tianjin,6051.92
+253182,115267,4,2023-05-25 22:47:38.291,Storage Facility 4 Street,Port of Valencia,4935.78
+478731,412104,2,2023-05-23 22:04:13.266,Storage Facility 5 Street,Port of Dubai,6436.34
+971243,115267,4,2023-05-25 21:20:48.241,Storage Facility 2 Street,Port of Rotterdam,10110.74
+366236,711889,2,2023-06-03 20:37:23.216,Storage Facility 5 Street,Port of Shanghai,4687.29
+957352,711889,4,2023-06-09 19:53:58.191,Storage Facility 4 Street,Port of Tianjin,2911.38
+164860,347209,4,2023-06-07 19:10:33.166,Storage Facility 4 Street,Port of Hong Kong,8832.15
+944143,347209,4,2023-06-13 18:27:08.141,Storage Facility 3 Street,Port of Rotterdam,10085.76
+424881,711889,4,2023-06-09 17:43:43.116,Storage Facility 2 Street,Port of Busan,2107.01
+186601,711889,2,2023-06-17 17:00:18.090,Storage Facility 4 Street,Port of Hamburg,3638.62
+509673,711889,2,2023-06-18 16:16:53.065,Storage Facility 3 Street,Port of Singapore,2561.69
+948570,115267,4,2023-06-22 15:33:28.040,Storage Facility 3 Street,Port of Hong Kong,4827.36
+476293,711889,2,2023-06-15 14:50:03.015,Storage Facility 5 Street,Port of Shanghai,5953.86
+158602,590511,4,2023-06-15 14:06:37.990,Storage Facility 5 Street,Port of Hamburg,9237.09
+762837,412104,4,2023-06-29 13:23:12.965,Storage Facility 3 Street,Port of New York and New Jersey,8162.62
+879456,711889,2,2023-06-19 12:39:47.940,Storage Facility 5 Street,Port of Tianjin,7830.21
+704936,412104,4,2023-06-28 11:56:22.915,Storage Facility 4 Street,Port of Valencia,4876.12
+633203,115267,2,2023-06-26 11:12:57.889,Storage Facility 1 Street,Port of Valencia,10255.92
+312130,412104,2,2023-06-27 10:29:32.864,Storage Facility 4 Street,Port of New York and New Jersey,6184.16
+183015,115267,4,2023-07-05 09:46:07.839,Storage Facility 3 Street,Port of Los Angeles,11770.15
+490551,590511,4,2023-07-10 09:02:42.814,Storage Facility 3 Street,Port of Los Angeles,7975.56
+950160,115267,4,2023-06-30 08:19:17.789,Storage Facility 4 Street,Port of New York and New Jersey,2388.91
+984544,115267,2,2023-07-08 07:35:52.764,Storage Facility 5 Street,Port of Busan,8437.95
+317028,347209,2,2023-07-06 06:52:27.739,Storage Facility 5 Street,Port of Rotterdam,4576.14
+441921,711889,4,2023-07-11 06:09:02.714,Storage Facility 3 Street,Port of Antwerp,8549.6
+214816,711889,4,2023-07-12 05:25:37.688,Storage Facility 2 Street,Port of Rotterdam,1766.05
+175201,590511,2,2023-07-14 04:42:12.663,Storage Facility 5 Street,Port of Los Angeles,2923.7
+229762,590511,4,2023-07-22 03:58:47.638,Storage Facility 4 Street,Port of Qingdao,10413.11
+947965,711889,2,2023-07-18 03:15:22.613,Storage Facility 5 Street,Port of Hamburg,3498.98
+713634,347209,4,2023-07-16 02:31:57.588,Storage Facility 4 Street,Port of Dubai,10207.45
+780021,711889,4,2023-07-18 01:48:32.563,Storage Facility 3 Street,Port of Shanghai,4072.04
+627822,347209,2,2023-07-22 01:05:07.538,Storage Facility 5 Street,Port of Los Angeles,8071.7
+233664,590511,2,2023-08-04 00:21:42.513,Storage Facility 4 Street,Port of Hong Kong,8635.66
+718443,412104,2,2023-08-03 23:38:17.487,Storage Facility 3 Street,Port of Busan,6639.2
+784171,590511,2,2023-08-03 22:54:52.462,Storage Facility 2 Street,Port of Singapore,4358.42
+811119,590511,4,2023-07-30 22:11:27.437,Storage Facility 4 Street,Port of Antwerp,3339.09
+115155,115267,2,2023-08-02 21:28:02.412,Storage Facility 2 Street,Port of Hamburg,1365.08
+236794,115267,4,2023-08-01 20:44:37.387,Storage Facility 2 Street,Port of Antwerp,4343.41
+179083,115267,2,2023-08-09 20:01:12.362,Storage Facility 1 Street,Port of Rotterdam,8184.79
+210570,115267,2,2023-08-14 19:17:47.337,Storage Facility 5 Street,Port of Rotterdam,11321.35
+181141,347209,2,2023-08-16 18:34:22.312,Storage Facility 4 Street,Port of Rotterdam,10583.25
+903894,711889,4,2023-08-21 17:50:57.286,Storage Facility 2 Street,Port of Busan,9426.71
+827736,412104,4,2023-08-11 17:07:32.261,Storage Facility 1 Street,Port of Guangzhou,9672.92
+477185,590511,4,2023-08-20 16:24:07.236,Storage Facility 3 Street,Port of Valencia,8314.83
+763732,347209,4,2023-08-15 15:40:42.211,Storage Facility 4 Street,Port of Hong Kong,3863.16
+480586,412104,4,2023-08-28 14:57:17.186,Storage Facility 2 Street,Port of Rotterdam,10979.15
+251851,347209,2,2023-08-26 14:13:52.161,Storage Facility 5 Street,Port of Qingdao,8378.06
+403010,347209,4,2023-08-26 13:30:27.136,Storage Facility 1 Street,Port of Ningbo-Zhoushan,7164.85
+281347,590511,2,2023-08-29 12:47:02.111,Storage Facility 2 Street,Port of New York and New Jersey,2220.88
+638608,711889,4,2023-09-03 12:03:37.085,Storage Facility 5 Street,Port of Shanghai,5917.61
+704897,115267,2,2023-08-27 11:20:12.060,Storage Facility 2 Street,Port of Qingdao,6063.94
+405218,711889,4,2023-09-03 10:36:47.035,Storage Facility 4 Street,Port of Shanghai,10510.2
+719375,590511,2,2023-09-10 09:53:22.010,Storage Facility 4 Street,Port of Ningbo-Zhoushan,7013.13
+342579,590511,2,2023-09-06 09:09:56.985,Storage Facility 4 Street,Port of Dubai,5184.41
+203703,590511,2,2023-09-06 08:26:31.960,Storage Facility 1 Street,Port of Los Angeles,11744.8
+232044,412104,2,2023-09-11 07:43:06.935,Storage Facility 4 Street,Port of Dubai,2217.93
+904141,711889,2,2023-09-20 06:59:41.910,Storage Facility 5 Street,Port of Guangzhou,5648.03
+900058,711889,2,2023-09-21 06:16:16.884,Storage Facility 2 Street,Port of Shanghai,1462.27
+244778,347209,2,2023-09-14 05:32:51.859,Storage Facility 3 Street,Port of Dubai,9138.95
+615389,347209,2,2023-09-14 04:49:26.834,Storage Facility 5 Street,Port of Singapore,11098.84
+493143,347209,2,2023-09-24 04:06:01.809,Storage Facility 5 Street,Port of Tianjin,4080.41
+560607,590511,2,2023-09-28 03:22:36.784,Storage Facility 4 Street,Port of New York and New Jersey,10441.76
+523167,711889,4,2023-09-25 02:39:11.759,Storage Facility 1 Street,Port of Dubai,4214.4
+160838,590511,2,2023-09-28 01:55:46.734,Storage Facility 2 Street,Port of Ningbo-Zhoushan,11018.47
+140253,412104,4,2023-09-24 01:12:21.709,Storage Facility 1 Street,Port of Ningbo-Zhoushan,9293.58
+338381,347209,2,2023-09-29 00:28:56.683,Storage Facility 2 Street,Port of Rotterdam,9853.97
+660057,590511,4,2023-09-26 23:45:31.658,Storage Facility 2 Street,Port of Hamburg,1198.07
+519643,590511,2,2023-10-04 23:02:06.633,Storage Facility 1 Street,Port of Singapore,11590.91
+716422,412104,4,2023-10-07 22:18:41.608,Storage Facility 5 Street,Port of Shanghai,8993.38
+222575,115267,4,2023-10-14 21:35:16.583,Storage Facility 2 Street,Port of Singapore,4352.26
+610974,711889,2,2023-10-09 20:51:51.558,Storage Facility 1 Street,Port of Hong Kong,10123.34
+338678,115267,4,2023-10-10 20:08:26.533,Storage Facility 2 Street,Port of Ningbo-Zhoushan,4096.73
+475435,347209,2,2023-10-13 19:25:01.508,Storage Facility 3 Street,Port of Dubai,10600.29
+850683,590511,2,2023-10-11 18:41:36.482,Storage Facility 5 Street,Port of Valencia,2238.38
+921140,412104,4,2023-10-12 17:58:11.457,Storage Facility 4 Street,Port of Tianjin,8740.55
+868936,412104,2,2023-10-20 17:14:46.432,Storage Facility 2 Street,Port of Hamburg,6947.68
+870684,711889,4,2023-10-22 16:31:21.407,Storage Facility 3 Street,Port of Hamburg,2061.88
+331551,115267,4,2023-10-27 15:47:56.382,Storage Facility 4 Street,Port of Los Angeles,3660.83
+120304,711889,4,2023-10-30 15:04:31.357,Storage Facility 4 Street,Port of Singapore,1136.44
+630202,590511,4,2023-10-31 14:21:06.332,Storage Facility 2 Street,Port of Valencia,6156.45
+140203,711889,2,2023-11-06 13:37:41.307,Storage Facility 1 Street,Port of Ningbo-Zhoushan,4313.92
+600032,412104,2,2023-10-27 12:54:16.281,Storage Facility 2 Street,Port of Rotterdam,7581.93
+844870,412104,4,2023-10-29 12:10:51.256,Storage Facility 3 Street,Port of Qingdao,4269.62
+421210,347209,2,2023-11-03 10:00:36.181,Storage Facility 4 Street,Port of Busan,4299.11
+462094,347209,4,2023-11-10 00:00:00.000,Storage Facility 2 Street,Port of New York and New Jersey,9175.13
+261785,590511,2,2023-11-10 00:00:00.000,Storage Facility 1 Street,Port of Dubai,1529.57

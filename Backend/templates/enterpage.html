@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>主页面</title>
+    <style>
+        html {
+
+            height: 100%;
+        }
+
+        body {
+            height: 100%;
+            margin: 0;
+            /* Reset default margin */
+            background-image: url('static\\4W-auto.jpg');
+            /* Set the background image */
+            background-size: cover;
+            /* Cover the entire page */
+            background-position: center;
+            /* Center the background image */
+            background-repeat: no-repeat;
+            /* Do not repeat the image */
+            background-attachment: fixed;
+            /* Fix the background image */
+        }
+
+        h1 {
+            left: 65%;
+            font-size: 4vw;
+            color: #fdfdfd;
+        }
+
+        h2 {
+            left: 70%;
+            font-size: 1vw;
+            color: #f5f5f5;
+        }
+
+        /* Container for buttons to center them */
+        .container-buttons {
+            position: absolute;
+            /* Positioning relative to the nearest positioned ancestor */
+            top: 62%;
+            /* Adjust this value to move the buttons up or down */
+            left: 65%;
+            /* Center the container */
+            transform: translate(-50%, -50%);
+            /* Adjust the position accurately */
+            width: 100%;
+            /* Ensure the container spans the width of the viewport */
+        }
+
+        .container-words {
+            position: absolute;
+            /* Positioning relative to the nearest positioned ancestor */
+            top: 45%;
+            /* Adjust this value to move the buttons up or down */
+            left: 66%;
+            /* Center the container */
+            transform: translate(-50%, -50%);
+            /* Adjust the position accurately */
+            width: 100%;
+            /* Ensure the container spans the width of the viewport */
+        }
+
+        .button {
+            padding: 1.3vw 2.4vw;
+            margin: 0 10px;
+            /* Adjust spacing between buttons if necessary */
+            font-size: 1vw;
+            color: white;
+            background-color: #007BFF;
+            border: none;
+            border-radius: 0.5vw;
+            text-decoration: none;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .button:hover {
+
+            background-color: #FFD700;
+            color: #000;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container-words">
+        <h1>超级牛逼轮胎公司</h1>
+        <h2>每一条轮胎都有卓越的超级表现</h2>
+    </div>
+    <div class="container-buttons">
+        <a href="employee" class="button">员工选项</a>
+        <a href="company" class="button">公司选项</a>
+    </div>
+
+
+</body>
+
+</html>

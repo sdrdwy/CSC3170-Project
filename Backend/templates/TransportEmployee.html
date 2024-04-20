@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transport 数据查询</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f9f9f9;
+        }
+        input, button {
+            padding: 10px;
+            margin: 10px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+        button {
+            color: white;
+            background-color: #28a745;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+        .container {
+            text-align: center;
+        }
+        table {
+            width: 100%;
+            margin-top: 20px;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #28a745;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Transport 查询</h1>
+        <div>
+            <form action = "TransportEmployee" method="post" >
+                <label for="startDate">开始日期:</label>
+                <input type="date" id="startDate" name="startDate">
+                <label for="endDate">结束日期:</label>
+                <input type="date" id="endDate" name="endDate">
+                <input type="submit" value="查询">
+            </form>
+        </div>
+        <div>
+            <button type="button" onclick="window.location.href='{{url_from}}'">返回</button>
+            <button type="button" onclick="window.location.href='member_info?from=transport'">查询组内人员</button>
+            <button type="button" onclick="window.location.href='tire_info'">查询轮胎种类</button>
+        </div>
+        <table id="data-table">
+            <thead>
+                <tr>
+                    <th>订单号</th>
+                    <th>船厂</th>
+                    <th>负责小组</th>
+                    <th>创建日期</th>
+                    <th>始发地</th>
+                    <th>目的地</th>
+                    <th>运输费用</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                {%for detail in data%}
+                <tr>
+                    {%for item in detail%}
+                    <td>{{item}}</td>
+                    {%endfor%}
+                    <td><button type="button" onclick="window.location.href='order_detail?id={{detail[0]}}&from=transport_order_detail'"> 查看详情</button></td>
+                </tr>
+                {%endfor%}
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
