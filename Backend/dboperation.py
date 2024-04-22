@@ -36,11 +36,11 @@ class DataBase:
         #cus: customer count,customer order count
         #inv: inventory count, inventory order count
         cus=[0,0]
-        self.cursor.execute("SELECT COUNT(*),SUM(money_amount) FROM selling_order")
+        self.cursor.execute("SELECT SUM(money_amount),COUNT(*) FROM selling_order")
         sell=self.cursor.fetchone()
-        self.cursor.execute("SELECT COUNT(*),SUM(transport_cost) FROM transport_order")
+        self.cursor.execute("SELECT SUM(transport_cost),COUNT(*) FROM transport_order")
         trans=self.cursor.fetchone()
-        self.cursor.execute("SELECT COUNT(*),SUM(total_cost) FROM manu_order")
+        self.cursor.execute("SELECT SUM(total_cost),COUNT(*) FROM manu_order")
         manu=self.cursor.fetchone()
         self.cursor.execute("SELECT COUNT(DISTINCT(customer_id)) FROM selling_order")
         cus[0],cus[1]=self.cursor.fetchone()[0],sell[1]
