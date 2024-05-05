@@ -1,2 +1,2 @@
 # CSC3170-Project
-A order managing system for tire company
+An order managing system for tire company
